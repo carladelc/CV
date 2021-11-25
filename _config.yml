@@ -2,8 +2,8 @@ description: This is a template researchers can walk away with and create their 
 datelastupdated: Nov 2021
 fullnameofperson: Carla Del Carpio
 selfIdentification: Master of Public Health - Health Promotion Professional
-colour1: "#274c77"  # sidebar background 
-colour2: "#a3cef1"  # colour of name and desc
+colour1: "#274c57"  # sidebar background 
+colour2: "#a2cef1"  # colour of name and desc
 colour3: "#a3cef1"  # colour of Menu links
 colour4: "#d4dfc7" # trying to be background colour - still experimenting 
 colour5: "#e7ecef" # menu link colour when hover
