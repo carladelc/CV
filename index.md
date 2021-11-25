@@ -7,9 +7,9 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Master of Public Health major in Health Promotion| The University of Queensland      | 2021 |
+| Bachelor of Medicine | Universidad Mayor de San Andres  | 2007|
+
 
 ## Employment
 
